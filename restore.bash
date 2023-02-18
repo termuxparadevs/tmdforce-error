@@ -1,0 +1,1 @@
+mv $PREFIX/etc/apt/sources2.list $PREFIX/etc/apt/sources.list
